@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQGPxK5tuJ1Ssw/profile-displaybackgroundimage-shrink_350_1400/0/1689485769162?e=1695859200&v=beta&t=DaVI_Zt_-wYHCWVPGUTywTt_9EFWZoSkWp370pFE1is)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm HumaionKobir1</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humaionkobir1&label=Profile%20views&color=0e75b6&style=flat" alt="humaionkobir1" /> </p>
