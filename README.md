@@ -5,13 +5,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Humaion+Kobir;Front-end+Developer" alt="Typing SVG" /></a>
 
 </h1>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <h3 align="center">A passionate frontend developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=HumaionKobir1&label=Profile%20views&color=0e75b6&style=flat" alt="HumaionKobir1" /> </p>
 </br>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" align="center" width = 100px></h2>
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 - 🔭 I’m currently working on **React.js and Next.js**
 
