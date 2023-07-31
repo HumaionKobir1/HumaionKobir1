@@ -1,5 +1,4 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQGPxK5tuJ1Ssw/profile-displaybackgroundimage-shrink_350_1400/0/1689485769162?e=1695859200&v=beta&t=DaVI_Zt_-wYHCWVPGUTywTt_9EFWZoSkWp370pFE1is)](https://codegrills.in)
-<!-- <h1 align="center">Hello,</h1> -->
 <h1 align="center">Hello,
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Humaion+Kobir;Front-end+Developer" alt="Typing SVG" /></a>
