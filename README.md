@@ -11,11 +11,11 @@
 </br>
 
 <h2> About Me </h2>
-- 🔭 I’m currently working on **React.js and Next.js**
-- 🌱 I’m currently learning **Node, graphQL, hono,  redux and typescript.**
-- 👯 I’m looking to collaborate **Mern Stact Project**
-- 💬 Ask me about **Technology and Personal Development**
-- 📫 How to reach me **humaionkobir341@gmail.com**
+- 🔭 I’m currently working on **React.js and Next.js** <br>
+- 🌱 I’m currently learning **Node, graphQL, hono,  redux and typescript.**<br>
+- 👯 I’m looking to collaborate **Mern Stact Project**<br>
+- 💬 Ask me about **Technology and Personal Development**<br>
+- 📫 How to reach me **humaionkobir341@gmail.com**<br>
 - ⚡ Fun fact **I love travel**
 
 ## 🌐 Socials:
