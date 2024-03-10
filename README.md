@@ -10,26 +10,14 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=HumaionKobir1&label=Profile%20views&color=0e75b6&style=flat" alt="HumaionKobir1" /> </p>
 </br>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" align="center" width = 100px></h2>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
+<h2> About Me </h2>
 - 🔭 I’m currently working on **React.js and Next.js**
-
-- 🌱 I’m currently learning **React,Node,Express,MongoDB and everything.**
-
-- 👯 I’m looking to collaborate **with other Developers**
-
-- 🤝 I’m looking for help with **React.js**
-
-- 💬 Ask me about **React.js**
-
+- 🌱 I’m currently learning **Node, graphQL, hono,  redux and typescript.**
+- 👯 I’m looking to collaborate **Mern Stact Project**
+- 💬 Ask me about **Technology and Personal Development**
 - 📫 How to reach me **humaionkobir341@gmail.com**
-
 - ⚡ Fun fact **I love travel**
-
 <br>
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/x9EZ8az7) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/humaionkobir.humaionkobir/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/humaion-kobir-072503209/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/humaionkobir15?t=yMIejyFsz6n8L_IfpzNHLA&s=09) 
 
