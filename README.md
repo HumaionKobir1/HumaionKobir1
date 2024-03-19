@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co/0YtxdCM/mern-stack-developer-1.png"/>
 <h1 align="center">
  <img src="[image-url-here](https://media.licdn.com/dms/image/D5616AQFyaFPU63xFTw/profile-displaybackgroundimage-shrink_350_1400/0/1690785642602?e=1696464000&v=beta&t=rMJCpe8ApMt115YAJYgCHbZsb54EfOhL7k2BrjU_XcE)" />
 </h1>
